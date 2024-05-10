@@ -5,7 +5,7 @@ import srn from "@/public/srn.jpg";
 
 const Navbar = () => {
   return (
-    <nav className="max-w-full flex px-5 py-3 bg-gray-700 text-white justify-between sm:justify-evenly">
+    <nav className="max-w-full flex px-5 py-3 bg-gray-700 text-white justify-between md:px-64  xl:px-96">
       <ul className="flex gap-10 items-center text-sm">
         <li className="cursor-pointer">Dashboard</li>
         <li className="hidden sm:inline-block cursor-pointer">Master Price</li>
