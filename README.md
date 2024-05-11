@@ -23,6 +23,9 @@ Open [https://flight-search-neon.vercel.app](https://flight-search-neon.vercel.a
 - First, I distructured project component according to your provided outpt image.
 - Created `Nvabar`, `Form`, `Data table Ui` component for better maintainability and reusability.
 - I kept same UI design according to `output image`.
+- Did simple `resposive` design.
 - I kept `form inputs static` as required.
 - Used `material ui table` for a grate DataTable ui which have a nice `pagination`.
 - Finnaly I `maped` the data which is provided to show the TableData as required. I set the provided data in my `Utils` folder
+
+### I took one day to completing this task
